@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 
-button {
+.btn {
     background-color: red;
     color: black;
     bold: 50;
