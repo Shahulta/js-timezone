@@ -4,6 +4,9 @@ body {
     text-align: center;
 }
 
-
+button {
+    background-color: red;
+    color: black;
+}
 
 
